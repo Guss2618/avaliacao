@@ -1,0 +1,19 @@
+.meu{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.foto{
+  margin-top: center;
+  margin: 10%;
+}
+.co{
+    display:flex;
+    margin-top: center;
+}  
+li{ 
+list-style: none;
+}.ava{
+
+    margin-top:30vh;
+}
+
